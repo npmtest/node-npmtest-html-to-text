@@ -1,7 +1,7 @@
 # test coverage for  [html-to-text (v3.2.0)](https://github.com/werk85/node-html-to-text)  [![npm package](https://img.shields.io/npm/v/npmtest-html-to-text.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-html-to-text) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-html-to-text.svg)](https://travis-ci.org/npmtest/node-npmtest-html-to-text)
 #### Advanced html to plain text converter
 
-[![NPM](https://nodei.co/npm/html-to-text.png?downloads=true)](https://www.npmjs.com/package/html-to-text)
+[![NPM](https://nodei.co/npm/html-to-text.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/html-to-text)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-html-to-text/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-html-to-text/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-html-to-text/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-html-to-text/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-html-to-text/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-html-to-text/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-html-to-text/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-html-to-text/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-html-to-text/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-html-to-text/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-html-to-text%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-html-to-text/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-html-to-text/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-html-to-text/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-html-to-text/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-html-to-text%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html-to-text/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-html-to-text/build/test-report.html](https://npmtest.github.io/node-npmtest-html-to-text/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-html-to-text/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-html-to-text/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-html-to-text/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-html-to-text/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-html-to-text/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html-to-text/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-html-to-text/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Malte Legenhausen",
-        "email": "legenhausen@werk85.de"
+        "name": "Malte Legenhausen"
     },
     "bin": {
         "html-to-text": "./bin/cli.js"
@@ -72,13 +77,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "mlegenhausen",
-            "email": "mlegenhausen@gmail.com"
+            "name": "mlegenhausen"
         }
     ],
     "name": "html-to-text",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/werk85/node-html-to-text.git"
