@@ -1,4 +1,7 @@
-# test coverage for  [html-to-text (v3.2.0)](https://github.com/werk85/node-html-to-text)  [![npm package](https://img.shields.io/npm/v/npmtest-html-to-text.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-html-to-text) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-html-to-text.svg)](https://travis-ci.org/npmtest/node-npmtest-html-to-text)
+# npmtest-html-to-text
+
+#### basic test coverage for  [html-to-text (v3.2.0)](https://github.com/werk85/node-html-to-text)  [![npm package](https://img.shields.io/npm/v/npmtest-html-to-text.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-html-to-text) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-html-to-text.svg)](https://travis-ci.org/npmtest/node-npmtest-html-to-text)
+
 #### Advanced html to plain text converter
 
 [![NPM](https://nodei.co/npm/html-to-text.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/html-to-text)
